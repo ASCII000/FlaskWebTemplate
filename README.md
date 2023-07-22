@@ -4,7 +4,7 @@
  ## Comandos uteis
  ### Restaurar / Criar banco de dados SQLite
 `flask --app flaskr init-db`
-flakr é o nome do pacote da aplicação.
+flaskr | é o nome do pacote da aplicação.
 
 ### Iniciar servidor flask
 `flask --app flaskr run --debug`
